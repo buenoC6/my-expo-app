@@ -3,9 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"],
+      "@styles": ["./src/styles/index.ts"]
     }
   },
   "include": [
